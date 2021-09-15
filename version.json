@@ -1,7 +1,7 @@
 {
   "title": "HNE",
   "message": "Existe una nueva version\n¿Desea Actualizar?",
-  "description": "mensaje",
-  "details": "detalle de app",
-  "version": 1.7
+  "description": "Descripción",
+  "details": "Detalle",
+  "version": 3
 }
